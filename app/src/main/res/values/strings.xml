@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FANIKIWA PEER TO PEER LENDING</string>
+    <string name="dummy_button">Login</string>
+    <string name="dummy_content">FANIKIWA\nPEER TO PEER \nLENDING</string>
+    <string name="title">FANIKIWA PEER TO PEER LENDING</string>
+    <string name="title_activity_android_sqlite_tutorial">AndroidSQLiteTutorialActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">main</string>
+    <string name="title_activity_photos_layout">photos_layout</string>
+    <string name="title_activity_videos">Videos</string>
+
+</resources>
