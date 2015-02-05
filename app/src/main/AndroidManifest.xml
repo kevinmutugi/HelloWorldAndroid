@@ -34,6 +34,10 @@
             android:name=".Videos"
             android:label="@string/title_activity_videos" >
         </activity>
+        <activity
+            android:name=".androidgitactivity"
+            android:label="@string/title_activity_androidgitactivity" >
+        </activity>
     </application>
 
 </manifest>

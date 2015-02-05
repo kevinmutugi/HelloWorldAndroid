@@ -11,5 +11,6 @@
     <string name="title_activity_main">main</string>
     <string name="title_activity_photos_layout">photos_layout</string>
     <string name="title_activity_videos">Videos</string>
+    <string name="title_activity_androidgitactivity">Android Git</string>
 
 </resources>
